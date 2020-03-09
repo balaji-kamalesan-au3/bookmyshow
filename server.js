@@ -2,7 +2,7 @@ const express = require('express')
 const path = require('path')
 const nodemailer = require("nodemailer");
 const app = express();
-const path = require('path')
+
 
 // Database
 
